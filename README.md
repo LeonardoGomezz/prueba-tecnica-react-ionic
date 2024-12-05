@@ -118,4 +118,5 @@ Para probar en un dispositivo físico (Android o iOS):
 
 - **Autor:** Leonardo José Gómez Gómez
 - **Correo Electrónico:** leonardogomez306@gmail.com
+- - **Numero de telefono:** 3217866817
 - **Repositorio en GitHub:** [Prueba Técnica React + Ionic](https://github.com/LeonardoGomezz/prueba-tecnica-react-ionic/tree/main)
