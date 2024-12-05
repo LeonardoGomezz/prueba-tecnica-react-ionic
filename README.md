@@ -43,6 +43,7 @@ Esta aplicación multiplataforma permite a los usuarios buscar productos en una 
 ## **Estructura del Proyecto**
 
 📁 src/ 
+
 ├── 📁 components/ # Componentes reutilizables (e.g., ProductCard) 
 
 ├── 📁 hooks/ # Hooks personalizados (e.g., useFavorites, useProducts) 
