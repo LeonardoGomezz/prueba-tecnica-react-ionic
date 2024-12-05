@@ -21,8 +21,6 @@ Esta aplicación multiplataforma permite a los usuarios buscar productos en una 
 
 ---
 
----
-
 ## **Decisiones de Diseño y Arquitectura**
 
 ### **Diseño**
