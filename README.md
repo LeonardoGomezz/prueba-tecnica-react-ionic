@@ -44,10 +44,15 @@ Esta aplicación multiplataforma permite a los usuarios buscar productos en una 
 
 📁 src/ 
 ├── 📁 components/ # Componentes reutilizables (e.g., ProductCard) 
+
 ├── 📁 hooks/ # Hooks personalizados (e.g., useFavorites, useProducts) 
+
 ├── 📁 pages/ # Páginas principales (e.g., Home, Favorites) 
+
 ├── 📁 service/ # Módulo para realizar peticiones a la API 
-├── 📁 utils/ # Funciones auxiliares (e.g., formatNumberCurrency, paginationFunction) 
+
+├── 📁 utils/ # Funciones auxiliares (e.g., formatNumberCurrency, paginationFunction)
+
 └── App.tsx # Configuración principal de la aplicación
 
 
