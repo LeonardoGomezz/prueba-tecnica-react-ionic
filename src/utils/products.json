@@ -1,0 +1,108 @@
+[
+  {
+    "id": 121,
+    "title": "unambaa",
+    "price": 68,
+    "description": "producto unamba",
+    "images": ["[\"https://placeimg.com/640/480/any\"]"],
+    "creationAt": "2024-12-05T17:03:00.000Z",
+    "updatedAt": "2024-12-05T17:03:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "creationAt": "2024-12-05T07:31:57.000Z",
+      "updatedAt": "2024-12-05T07:31:57.000Z"
+    }
+  },
+  {
+    "id": 123,
+    "title": "lol",
+    "price": 2,
+    "description": "lol",
+    "images": [
+      "[\"https://www.mobicom.ru/upload/iblock/589/7jkqbq4edfjzy3f97a306hdfy3wlgiei.jpg\"]"
+    ],
+    "creationAt": "2024-12-05T17:06:35.000Z",
+    "updatedAt": "2024-12-05T17:06:35.000Z",
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "creationAt": "2024-12-05T07:31:57.000Z",
+      "updatedAt": "2024-12-05T07:31:57.000Z"
+    }
+  },
+  {
+    "id": 124,
+    "title": "lol",
+    "price": 2,
+    "description": "lol",
+    "images": [
+      "[\"https://www.mobicom.ru/upload/iblock/589/7jkqbq4edfjzy3f97a306hdfy3wlgiei.jpg\"]"
+    ],
+    "creationAt": "2024-12-05T17:06:35.000Z",
+    "updatedAt": "2024-12-05T17:06:35.000Z",
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "creationAt": "2024-12-05T07:31:57.000Z",
+      "updatedAt": "2024-12-05T07:31:57.000Z"
+    }
+  },
+  {
+    "id": 125,
+    "title": "1asd",
+    "price": 123,
+    "description": "asdasdasddasdasd",
+    "images": [
+      "[\"https://i.pinimg.com/736x/76/c2/ee/76c2eea07802a3915f09c967d9701f7a.jpg\"",
+      "\"https://i.pinimg.com/736x/76/c2/ee/76c2eea07802a3915f09c967d9701f7a.jpg\"]"
+    ],
+    "creationAt": "2024-12-05T17:06:38.000Z",
+    "updatedAt": "2024-12-05T17:06:38.000Z",
+    "category": {
+      "id": 3,
+      "name": "Change title",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "creationAt": "2024-12-05T07:31:57.000Z",
+      "updatedAt": "2024-12-05T07:32:53.000Z"
+    }
+  },
+  {
+    "id": 126,
+    "title": "tripaloski",
+    "price": 70,
+    "description": "hola",
+    "images": ["[\"https://placeimg.com/640/480/any\"]"],
+    "creationAt": "2024-12-05T17:06:54.000Z",
+    "updatedAt": "2024-12-05T17:06:54.000Z",
+    "category": {
+      "id": 140,
+      "name": "New Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2024-12-05T15:34:25.000Z",
+      "updatedAt": "2024-12-05T15:34:25.000Z"
+    }
+  },
+  {
+    "id": 127,
+    "title": "adasdads",
+    "price": 123132,
+    "description": "asdasdasdasd",
+    "images": [
+      "[\"https://i.pinimg.com/736x/76/c2/ee/76c2eea07802a3915f09c967d9701f7a.jpg\"",
+      "\"https://i.pinimg.com/736x/76/c2/ee/76c2eea07802a3915f09c967d9701f7a.jpg\"]"
+    ],
+    "creationAt": "2024-12-05T17:10:34.000Z",
+    "updatedAt": "2024-12-05T17:10:34.000Z",
+    "category": {
+      "id": 25,
+      "name": "New Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2024-12-05T09:41:57.000Z",
+      "updatedAt": "2024-12-05T09:41:57.000Z"
+    }
+  }
+]

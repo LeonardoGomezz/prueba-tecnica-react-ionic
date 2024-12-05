@@ -1,0 +1,40 @@
+.productImage{
+  max-width: 200px;
+  margin-right: 32px;
+}
+
+.cardContainer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between !important;
+  width: 100%;
+}
+
+.cardSection{
+  display: flex;
+  align-items: center;
+}
+
+/* Cuando la pantalla sea más grande, cambian las direcciones */
+@media (width < 640px) {
+  .productTitle{
+    font-size: 18px !important;
+  }
+  .cardContainer{
+    flex-direction: column;
+    position: relative;
+  }
+  .cardSection{
+    width: 100%;
+  }
+  .deleteButton {
+   position: absolute;
+   bottom: 0px;
+   right: 0px;
+  }
+
+  .productImage{
+    max-width: 120px;
+    object-fit: cover;
+  }
+}
