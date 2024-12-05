@@ -60,7 +60,7 @@ Esta aplicación multiplataforma permite a los usuarios buscar productos en una 
 Sigue estos pasos para levantar el proyecto localmente:
 
 1. Clona el repositorio:
-   git clone https://github.com/usuario/prueba-tecnica-react-ionic.git
+   git clone https://github.com/LeonardoGomezz/prueba-tecnica-react-ionic.git
 2. Abre el proyecto en visual studio code e instala las dependencias:
    npm install
 3. ejecuta el proyecto:
@@ -120,4 +120,4 @@ Para probar en un dispositivo físico (Android o iOS):
 
 - **Autor:** Leonardo José Gómez Gómez
 - **Correo Electrónico:** leonardogomez306@gmail.com
-- **Repositorio en GitHub:** [Prueba Técnica React + Ionic](https://github.com/usuario/prueba-tecnica-react-ionic)
+- **Repositorio en GitHub:** [Prueba Técnica React + Ionic](https://github.com/LeonardoGomezz/prueba-tecnica-react-ionic/tree/main)
